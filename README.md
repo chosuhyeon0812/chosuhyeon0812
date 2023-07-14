@@ -1,16 +1,18 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=CHO%20Suhyeon&fontSize=100)
+## 👩 Introduce 
+- 이름 : 조수현
+- 블로그 : [티스토리](https://jeniffer0812techstory.tistory.com/) | [네이버](https://blog.naver.com/jeniffer0812)
+- 이메일 : jeniffer0812@naver.com | cho5881237@gmail.com
 
-<!--
-**chosuhyeon0812/chosuhyeon0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔐 Github Status | Algorithm 
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=chosuhyeon0812&show_icons=true) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeniffer0812)](https://solved.ac/kinetic27)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education 
+- SSAFY - 삼성 청년 SW 아카데미 10기 (2023.07 ~ ) 
+- 한국폴리텍대학 진주 캠퍼스 - AI 소프트웨어학과 (2023.03 ~ 2023.06)
+- 우송대학교 - 외식조리전공 (2018.03 ~ 2022.08)
+   
+## 🖥 Skill 
+	
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
