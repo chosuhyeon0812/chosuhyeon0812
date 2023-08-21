@@ -6,7 +6,9 @@
 - 이메일 : jeniffer0812@naver.com | cho5881237@gmail.com
 
 ## 🔐 Github Status | Algorithm 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=chosuhyeon0812&show_icons=true) [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeniffer0812)](https://solved.ac/jeniffer0812)
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=chosuhyeon0812&show_icons=true) 
+[![Solved.a
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={jeniffer0812})](https://solved.ac/{jeniffer0812})
 
 
 ## 📚 Education 
