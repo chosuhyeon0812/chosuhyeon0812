@@ -7,7 +7,7 @@
 
 ## 🔐 Github Status | Algorithm 
 ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=chosuhyeon0812&show_icons=true) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeniffer0812)](https://solved.ac/jeniffer0812)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cho5881237)](https://solved.ac/cho5881237)
 
 
 ## 📚 Education 
