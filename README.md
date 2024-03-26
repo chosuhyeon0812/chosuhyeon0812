@@ -13,7 +13,17 @@
 ## 📚 Education 
 - SSAFY - 삼성 청년 SW 아카데미 10기 (2023.07 ~ ) 
 - 우송대학교 - 외식조리전공 (2018.03 ~ 2022.08)
+
+## 최근 참여한 프로젝트
+
+| 프로젝트 | 역할 | 기간 | 수상 |
+|---|---|---|---|
+| 온라인 전시 서비스 🎨 ANUDAR 프로젝트 | 백엔드 | 2024.01.08 ~ 02.16 | SSAFY 공통 프로젝트 우수상 🏆 |
+| 금융정보 서비스 🍀 나행시 프로젝트 | 백엔드 | 2023.11.15 ~ 11.24 ||
+
+
    
 ## 🖥 Skill 
 	
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+
