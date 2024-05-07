@@ -5,10 +5,6 @@
 - 블로그 : [티스토리](https://jeniffer0812techstory.tistory.com/) | [네이버](https://blog.naver.com/jeniffer0812)
 - 이메일 : jeniffer0812@naver.com | cho5881237@gmail.com
 
-## 🔐 Github Status | Algorithm 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=chosuhyeon0812&show_icons=true) 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=cho5881237)](https://solved.ac/cho5881237)
-
 
 ## 📚 Education 
 - SSAFY - 삼성 청년 SW 아카데미 10기 (2023.07 ~ ) 
