@@ -7,7 +7,7 @@
 
 
 ## 📚 Education 
-- SSAFY - 삼성 청년 SW 아카데미 10기 (2023.07 ~ ) 
+- SSAFY - 삼성 청년 SW 아카데미 10기 (2023.07 ~ 2024.06) 
 - 우송대학교 - 외식조리전공 (2018.03 ~ 2022.08)
 
 ## 📌 최근 참여한 프로젝트
@@ -39,11 +39,3 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-white?style=for-the-badge&logo=notion&logoColor=black"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/chosuhyeon0812"
-  width="600"
-  height="300"
-/>
-</a>
